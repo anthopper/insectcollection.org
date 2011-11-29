@@ -73,7 +73,7 @@ body.not-front h1#page-title{
 #sidebar .block .content ul li {
   padding:10px;
   border-bottom:1px solid #e7e7e7;
-  background:url('/andromeda-assests/images/bullet-arrow.gif') no-repeat left 15px transparent;
+  background:url('/andromeda-assets/images/bullet-arrow.gif') no-repeat left 15px transparent;
   list-style:none outside none;
 }
 
@@ -95,7 +95,7 @@ body.not-front h1#page-title{
 }
 
 #footer h2{
-  background: url("/andromeda-assests/images/double-line.gif") repeat-x scroll center bottom transparent;
+  background: url("/andromeda-assets/images/double-line.gif") repeat-x scroll center bottom transparent;
   color: #FFFFFF;
   padding-bottom: 10px;
   font-weight:normal;
@@ -123,13 +123,13 @@ body.not-front h1#page-title{
 }
 
 #footer .block .content ul li{
-  background:url('/andromeda-assests/images/double-line.gif') repeat-x center bottom transparent;
+  background:url('/andromeda-assets/images/double-line.gif') repeat-x center bottom transparent;
   padding:7px 0;
   list-style:none outside none;
 }
 
 #footer .block .content ul li a{
-  background:url('/andromeda-assests/images/arrow.gif') no-repeat 0 center transparent;
+  background:url('/andromeda-assets/images/bullet-arrow.gif') no-repeat 0 center transparent;
   padding-left:8px;
 }
 
@@ -155,7 +155,7 @@ body.not-front h1#page-title{
 
 #footer .block table tr.odd,
 #footer .block table tr.even{
-  background:url('/andromeda-assests/images/double-line.gif') repeat-x center bottom transparent;
+  background:url('/andromeda-assets/images/double-line.gif') repeat-x center bottom transparent;
   border:none;
 }
 
@@ -306,7 +306,7 @@ img.image-space-left{
  */
 #slider {
   position:relative;
-  background:url(/andromeda-assests/images/loading.gif) no-repeat 50% 50%;
+  background:url(/andromeda-assets/images/loading.gif) no-repeat 50% 50%;
 }
 
 #slider img {
